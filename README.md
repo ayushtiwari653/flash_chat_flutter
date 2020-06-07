@@ -1,7 +1,7 @@
 # flash_chat_new
 
 A new Flutter project.
-
+![Finished App](https://github.com/ayushtiwari653/flash_chat_flutter/blob/master/flash_chat.gif)
 ## Getting Started
 
 This project is a starting point for a Flutter application.
